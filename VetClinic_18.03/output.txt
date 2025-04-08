@@ -1,0 +1,1 @@
+Pet age: 6, Pet ID: 1, Taxonomy: asd, Healthy: false, PetName: KOTIK, Diseases: HeadPains, CurrentWeight: 4.0
